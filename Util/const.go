@@ -1,0 +1,9 @@
+package Util
+
+const (
+	DATANUM   = 20000000
+	PUSHTIME  = 200
+	THREADNUM = 10000
+	CHANSIZE  = 10000
+	PERNUM    = 100000
+)
