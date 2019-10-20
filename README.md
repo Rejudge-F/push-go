@@ -3,7 +3,7 @@
 [![github](https://badgen.net/badge/OS/windows10/orange)](http://msdn.itellyou.cn/)
 [![github](https://badgen.net/badge/go/1.11.5/green)](https://studygolang.com/dl)
 [![github](https://badgen.net/badge/build/passing/green)](#)
-[![github](https://badgen.net/badge/IDE/Goland_2019/green)](https://github.com/Rejudge-F/WebServer_/blob/master/LICENSE)
+[![github](https://badgen.net/badge/IDE/Goland_2019/green)](https://www.jetbrains.com/go/)
 [![github](https://badgen.net/badge/license/MIT/green)](https://github.com/Rejudge-F/WebServer_/blob/master/LICENSE)
 
 使用时数据库配置需要再config中指定。
