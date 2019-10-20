@@ -1,4 +1,4 @@
-"# push-go" 
+# push-go
 
 [![github](https://badgen.net/badge/OS/windows10/orange)](http://msdn.itellyou.cn/)
 [![github](https://badgen.net/badge/go/1.11.5/green)](https://studygolang.com/dl)
